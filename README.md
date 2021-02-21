@@ -15,5 +15,5 @@ SG90 Servo
 
 TSF-1166 tactial switch
 
-45 Ohms resistor
+resistor
 
